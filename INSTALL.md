@@ -70,8 +70,8 @@ The latest compatible version of **rgbds** is  [**0.5.2**](https://github.com/gb
 
 Then set up the repository. In the **Cygwin terminal**:
 
-	git clone https://github.com/CelestialAmber/DKGBDisasm.git
-	cd DKGBDisasm
+	git clone https://github.com/Obame2/DKGBDisasmtest.git
+	cd DKGBDisasmtest
 
 To build `donkeykong.gb`:
 
